@@ -17,7 +17,7 @@
 // @version      0.1
 // @description  Facebook Arkadaşlık isteklerini iptal etme
 // @author       Deniz Kod
-// @match        www.facebook.com/*
+// @match        *://*.facebook.com/*
 // @grant        none
 // ==/UserScript==
 (function() {
